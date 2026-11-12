@@ -1,0 +1,4 @@
+# CIÊNCIA DA COMPUTAÇÃO - UFPA
+
+## TÓPICOS 
+## ÁRVORE (TREE)
